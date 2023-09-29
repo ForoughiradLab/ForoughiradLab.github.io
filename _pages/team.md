@@ -1,196 +1,34 @@
 ---
-title: "Allan Lab - Team"
+title: "Foroughirad Lab - People"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Foroughirad Lab: People"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
-
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+# The Team
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/20191105_Faculty_0230_compressed.png){: style="width: 350px; float: left; border: 10px"}
+### Vivienne Foroughirad - *Principal Investigator*
 
-## Staff
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+Vivienne is a behavioral ecologist interested in the fitness consequences of the social environment. Her research integrates genetics and long-term studies to characterize the evolutionary processes shaping patterns of variation across cetacean species. Vivienne earned her Ph.D. with Andy Read at the Duke University Marine Lab and then did a postdoc with Janet Mann at Georgetown University before moving to Galveston. She is committed to promoting equity and inclusion in STEM. Outside of the lab Vivienne enjoys photography, birdwatching, and . <!--[CV](https://www.dropbox.com/s/zzf3civc9w92tvp/NancyCVApril2019.pdf?dl=0)--> 
 
-{% assign even_odd = number_printed | modulo: 2 %}
+Email: vforoughirad@gmail.com <br>
+Twitter: [@vforoughirad](https://twitter.com/vforoughirad) <br>
+Pronouns: she/her/hers
+<br><br><br>
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/team_photo2.png){: style="width: 350px; float: left; border: 10px"}
+### Summer 2023 Field Team
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
+From left to right- Maya Silver, Vivienne Foroughirad, Janet Reddy, Meaghan Collins, and Vanessa Amezcua 
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+<!--![]({{ site.url }}{{ site.baseurl }}/images/teampic/ElizabethFlesch.jpg){: style="width: 350px; float: left; border: 60px"}
+### Elizabeth Flesch - *Postdoctoral Scholar (co-advised by Jay Rotella)*
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
+Elizabeth is interested in understanding how external forces influence population genetics across landscapes.  She is using demographic and genomic methods to evaluate the spatial scale of dispersal and gene flow among breeding colonies of Weddell seals found in Antarctica.  This approach will help identify potential drivers of temporal variation in immigration.  Elizabeth earned her Ph.D. at Montana State University, where her dissertation addressed the population genomics of bighorn sheep in the Rocky Mountains.  In her free time, she enjoys rock climbing, gardening, and hiking.
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
+Pronouns: she/her/hers
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-
-
-## Master and Bachelor Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-## Alumni
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<br>-->
