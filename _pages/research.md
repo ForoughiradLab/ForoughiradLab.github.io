@@ -7,8 +7,9 @@ permalink: /research/
 ---
 
 # Research
-
-![]({{ site.url }}{{ site.baseurl }}/images/shark_bay.PNG){: style="width: 70%; float: center; margin: 0px"}
+<p align="center">
+![]({{ site.url }}{{ site.baseurl }}/images/shark_bay.PNG){: style="width: 70%; margin: 0px"}
+  </p>
 <br>
 Much of the lab’s research leverages data from the [Shark Bay Dolphin Project](https://www.monkeymiadolphins.org), a long-term study of Indo-Pacific bottlenose dolphins in Shark Bay, Australia ongoing since the 1980s.
 
@@ -28,7 +29,7 @@ Kinship plays a fundamental role in the evolution of social systems and is a key
 
 ### Individual and population-Level responses to climate change
 
-<img src = "{{ site.url}}{{ site.baseurl}}/images/CBK_IMG_2410.jpg" class="img-responsive" width = "30%" style="float: right; margin: 0px 0px; padding-left: 20px" />
+<img src = "{{ site.url}}{{ site.baseurl}}/images/CBK_IMG_2410.jpg" class="img-responsive" width = "30%" style="float: right; margin: 5px 0px; padding-left: 20px" />
 
 How animals respond and adapt to changes in climate and extreme climate events is one of the most urgent problems in conservation biology. For long-lived, slow reproducing species, it can take decades to detect significant fitness effects before and after environmental change. Longitudinal studies therefore represent crucial opportunities to investigate climate impacts on basic biological phenomena such as ranging, phenology, life history, and fitness. Shark Bay, Australia is a unique ecosystem historically characterized by >4000 km2 of seagrass beds, making it one of the largest seagrass systems on earth. In the austral summer of 2010-2011, Shark Bay experienced the largest marine heatwave on record, with temperatures rising to over 4°C higher than normal summer temperatures for a two-month period. Our lab is engaged in work leveraging both 20+ years of baseline data as well as data from a decade post-heatwave to use as a natural experiment on behavioral responses to extreme environmental shifts.
 <br><br>
