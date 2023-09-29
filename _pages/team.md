@@ -12,14 +12,14 @@ permalink: /team/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/20191105_Faculty_0230_compressed.png){: style="width: 350px; float: left; border: 10px"}
 ### Vivienne Foroughirad - *Principal Investigator*
 
-Vivienne is a behavioral ecologist interested in the fitness consequences of the social environment. Her research integrates genetics and long-term studies to characterize the evolutionary processes shaping patterns of variation across cetacean species. Vivienne earned her Ph.D. with Andy Read at the Duke University Marine Lab and then did a postdoc with Janet Mann at Georgetown University before moving to Galveston. She is committed to promoting equity and inclusion in STEM. Outside of the lab Vivienne enjoys photography, birdwatching, and . <!--[CV](https://www.dropbox.com/s/zzf3civc9w92tvp/NancyCVApril2019.pdf?dl=0)--> 
+Vivienne is a behavioral ecologist interested in the fitness consequences of the social environment. Her research integrates genetics and long-term studies to characterize the evolutionary processes shaping patterns of variation in social structure across cetacean species. Vivienne earned her Ph.D. with Andy Read at the Duke University Marine Lab and then did a postdoc with Janet Mann at Georgetown University before moving to Galveston. <!--[CV](https://www.dropbox.com/s/zzf3civc9w92tvp/NancyCVApril2019.pdf?dl=0)--> 
 
 Email: vforoughirad@gmail.com <br>
 Twitter: [@vforoughirad](https://twitter.com/vforoughirad) <br>
 Pronouns: she/her/hers
-<br><br><br>
+<br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/team_photo2.png){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/summer2023teamsquare.jpeg){: style="width: 350px; float: left; border: 10px"}
 ### Summer 2023 Field Team
 
 From left to right- Maya Silver, Vivienne Foroughirad, Janet Reddy, Meaghan Collins, and Vanessa Amezcua 
