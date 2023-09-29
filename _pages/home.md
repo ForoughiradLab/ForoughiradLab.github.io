@@ -5,9 +5,9 @@ excerpt: "Foroughirad Lab at Texas A&M University &rarr; Galveston."
 sitemap: false
 permalink: /
 ---
-
+<br>
 **Coming to Texas A&M University at Galveston in January 2024!** 
-
+<br>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -52,11 +52,12 @@ permalink: /
   </a>
 </div>
 
-
+<br>
 The Foroughirad lab studies the behavioral ecology of cetaceans, focusing on how social environments impact survival and reproduction across the lifespan. Sociality is an important mechanism of inheritance- information and behaviors are transmitted via social learning, reinforced by culture, and the social environment itself can be an important component of ecological inheritance shaping evolutionary processes. Social groups can share care of young, provide protection from predation and harassment, and improve access to resources. Yet social partners are simultaneously each others’ primary competition for food and mates, may attract predators, or serve as conduits for disease. Nevertheless, sociality has evolved numerous times across species inhabiting diverse environments. We study how these tradeoffs operate in social cetaceans using combinations of long-term observational studies, genetics, and simulations.  
 
- **We are  looking for new PhD students and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+<br>
+ **We are  looking for new PhD students and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+<br><br>
 
 
 
