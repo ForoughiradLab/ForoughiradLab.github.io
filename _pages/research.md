@@ -8,8 +8,8 @@ permalink: /research/
 
 # Research
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/shark_bay.PNG){: style="width: 70%; float: center; margin: 0px"}
-Much of the lab’s research leverages data from the Shark Bay Dolphin Project, a long-term study of Indo-Pacific bottlenose dolphins in Shark Bay, Australia ongoing since the 1980s.
+![]({{ site.url }}{{ site.baseurl }}/images/shark_bay.PNG){: style="width: 70%; float: center; margin: 0px"}
+Much of the lab’s research leverages data from the [Shark Bay Dolphin Project](https://www.monkeymiadolphins.org), a long-term study of Indo-Pacific bottlenose dolphins in Shark Bay, Australia ongoing since the 1980s.
 
 
 ### Mechanisms of inheritance
