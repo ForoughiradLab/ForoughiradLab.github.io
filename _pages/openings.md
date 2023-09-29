@@ -11,7 +11,7 @@ permalink: /openings
 
 **Graduate students:** the Foroughirad Lab is recruiting graduate students for Fall 2024 through the [Marine Biology](https://www.tamug.edu/marb/degrees/Marine_Biology_graduate_program.html) department at [Texas A&M University at Galveston](https://www.tamug.edu/).
 
-If you are interested in joining the lab, please send the following materials to Vivienne Foroughirad at <vforoughirad@gmail.com> by November 1, 2023 for full consideration.
+If you are interested in joining the lab, please send the following materials to Vivienne Foroughirad at <vforoughirad@gmail.com> by November 15, 2023 for full consideration.
 
 1. CV
 2. Unofficial academic transcript
