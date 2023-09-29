@@ -1,41 +1,24 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Foroughirad Lab - Join the Lab"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
-# Open positions
+**Graduate students:** the Foroughirad Lab is recruiting graduate students for Fall 2024 through the [Marine Biology](https://www.tamug.edu/marb/degrees/Marine_Biology_graduate_program.html) department at [Texas A&M University at Galveston](https://www.tamug.edu/).
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+If you are interested in joining the lab, please send the following materials to Vivienne Foroughirad at vforoughirad@gmail.com by November 1, 2023 for full consideration.
 
-We are  looking for new group members with passion, talent, and grit!
+1. CV
+2. Unofficial academic transcript
+3. One-page summary of your research interests and experience
+4. Optional – writing sample (publication, honors or masters thesis, etc.)
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+**Postdocs:** I do not have funding for postdocs at the moment, but am happy to discuss collaborations on fellowship applications.
 
-### Past open positions
+**Undergraduate students:** There will be opportunities for undergraduate students to work in person at the lab at TAMUG beginning in January 2024.
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+**Field Assistants:** Openings for summer 2024 field assistant positions will be posted in mid-January here and through the [NSF ETAP](https://etap.nsf.gov/) website.
 
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
