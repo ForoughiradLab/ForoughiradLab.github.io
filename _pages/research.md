@@ -1,7 +1,7 @@
 ---
 title: "Foroughirad Lab - Research"
 layout: textlay
-excerpt: "Foroughirad Lab -- Research"
+excerpt: "Foroughirad Lab: Research"
 sitemap: false
 permalink: /research/
 ---
