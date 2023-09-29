@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Foroughirad Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Foroughirad Lab: Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,59 +9,61 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+### Check out our publications on [Google Scholar](https://scholar.google.com/citations?user=u_EmcvIAAAAJ&hl=en)
+<!-- <img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/PLOSgeneticsAug2017cover.png" class="img-responsive" width = "25%" style="float: right; padding-left: 15px" />
+<br>-->
 
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+### **Peer-reviewed**
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+16. McEntee, M.H.F., Foroughirad, V., Krzyszczyk, E. & J. Mann. (2023) Sex bias in mortality risk varies with age and sex specific selection pressures across the lifespan of bottlenose dolphins. Proceedings of the Royal Society B. doi:10.1098/rspb.2023.0675<br>
+<br>
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+15. Crystal-Ornelas, R., Edwards, B., Hébert, K., Hudgins, E.J., Sánchez-Reyes, L.L., Scott, E.R., Grainger, M., Foroughirad, V., Binley, A., Brookson, C., Gaynor, K., Shafiei Sabet, S., Güncan, A., Hillemann, F., Weierbach, H., Gomes, D.G.E., Braga, P.H.P. (2023) Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution. doi:10.1111/2041-210X.14108<br>
+<br>
 
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
+14. Dolezal, M., Foroughirad, V., Fish, F., Jacoby, A.M., Collier, M., Murphy, C., Rittmaster, K., Bansal, S., Mann, J.  (2023) Some like it hot: Temperature and hydrodynamic factors influence Xenobalanus globicipitis attachment to cetaceans. Marine Mammal Science. doi:10.1111/mms.13022<br>
+<br>
 
-{% assign number_printed = number_printed | plus: 1 %}
+13. Foroughirad, V., Frère, C.H., Levengood, A.L., Kopps, A.M., Krzyszczyk, E. & J. Mann. (2023) Small effects of family size on sociality despite strong kin preferences in female bottlenose dolphins. Animal Behaviour. doi:10.1016/j.anbehav.2022.10.011<br>
+<br>
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+12. Gomes, D.G.E., Pottier, P., Crystal-Ornelas, R., Hudgins, E.J., Foroughirad, V., Sánchez-Reyes, L.L., Turba, R., Martinez, P.A., Moreau, D., Bertram, M., Smout, C. & K. Gaynor. (2022) Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Proc B. doi:10.1098/rspb.2022.1113<br>
+<br>
 
-{% endif %}
-{% endfor %}
+11. Foroughirad, V., McEntee, M. H., Kopps, A.M., Levengood, A.L., Frère, C.H & J. Mann. (2022) Reproductive timing as an explanation for skewed parentage assignment ratio in a bisexually philopatric population. Behavioral Ecology and Sociobiology. 76, 129. doi:10.1007/s00265-022-03233-2<br>
+<br>
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+10. Levengood, A. L., Strickland, K., Foroughirad, V., Mann, J., Cristescu, R.H., Krzyszczyk, E.B., Frère, C. (2022) Heterogeneity of resource competition shapes individual variation in dolphin social behavior. Behavioral Ecology. Volume 33, Issue 4, July/August 2022, Pages 745–757, doi:10.1093/beheco/arac037<br>
+<br>
 
-<p> &nbsp; </p>
+9. Strickland K., Mann J., Foroughirad V., Levengood A.L., Frère C.H. (2021) Maternal effects and fitness consequences of individual variation in bottlenose dolphins’ ecological niche. Journal of Animal Ecology. 2021; 00:1–13. doi:10.1111/1365-2656.13513<br>
+<br>
 
+8. Mann, J., Foroughirad, V., McEntee, M.H., Miketa, M.L., Evans, T., Karniski, C.B., Krzyszczyk, E.B., Patterson, EM., Strohman, J., Wallen, M.M. (2021) Elevated calf mortality and long-term responses of wild bottlenose dolphins to extreme climate events: Impacts of foraging specialization and human provisioning. Frontiers in Marine Science. 8:617550. doi:10.3389/fmars.2021.617550<br>
+<br>
 
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+7. Galezo, A., Foroughirad, V., Krzyszczyk, E., Frère, C. & Mann, J. (2020). Juvenile social dynamics reflect adult reproductive strategies in bottlenose dolphins. Behavioral Ecology. doi:10.1093/beheco/araa068<br>
+<br>
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+6. Powell, S.N., Wallen, M.M., Miketa, M.L., Krzyszczyk, E., Foroughirad, V., Bansal, S. and Mann, J. (2019) Sociality and tattoo skin disease among bottlenose dolphins in Shark Bay, Australia. Behavioral Ecology. doi:10.1093/beheco/arz207<br>
+<br>
 
-## Full List of publications
+5. Foroughirad, V., Levengood, A., Mann, J. & Frère, C. (2019) Quality and quantity of genetic relatedness data affect the analysis of social structure. Molecular Ecology Resources. doi:10.1111/1755-0998.13028.<br>
+<br>
 
-{% for publi in site.data.publist %}
+4. Miketa, M., Patterson, EM., Krzyszczyk, E., Foroughirad, V., & Mann, J. (2018) Calf age and sex affects maternal diving behavior in Shark Bay bottlenose dolphins. Animal Behaviour. doi:10.1016/j.anbehav.2017.12.023<br>
+<br>
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+3. Strickland, K., Levengood, A., Foroughirad, V., Mann, J., Krzyszczyk, E., & Frère, C. (2017) A framework for the identification of long-term social avoidance in longitudinal datasets. Royal Society Open Science. 4(8) doi:10.1098/rsos.170641<br>
+<br>
 
-{% endfor %}
+2. Karniski, C.B., Patterson, E.M., Krzyszczyk, E., Foroughirad, V., Stanton, M.A. & Mann, J. (2015) A comparison of survey and focal follow methods for estimating individual activity budgets of cetaceans. Marine Mammal Science. doi:10.1111/mms.12198.<br>
+<br>
+
+1. Foroughirad, V. & Mann, J. (2013) Long-term Impacts of fish provisioning on the behavior and survival of bottlenose dolphins. Biological Conservation. 160:242-249.
+<br>
+
+### **Preprints**
+
+Changes in social position predict survival in bottlenose dolphins. RW Rankin, V Foroughirad, EB Krzyszczyk, CH Frère, J Mann [bioRxiv, 2022.08. 25.505273](https://www.biorxiv.org/content/10.1101/2022.08.25.505273.full.pdf)
