@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 <br>
-**Coming to Texas A&M University at Galveston in January 2024!** 
+<h4>Coming to Texas A&M University at Galveston in January 2024!</h4> 
 <br>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -24,7 +24,7 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/samu_compressed.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/banner_Marri_compressed.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/triple_synch_compressed.jpg" alt="Slide 2" />
@@ -36,7 +36,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sunset_boat_compressed.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/banner_Marri_compressed.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/samu_compressed.png" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/leaper.jpg" alt="Slide 6" />
