@@ -66,4 +66,6 @@ permalink: /publications/
 
 ### **Preprints**
 
+Collier, M.A., Jacoby, A., **Foroughirad, V.**, Patterson, E.M., Krzyszczyk, E., Wallen, M.M., Miketa, M., Karniski, C., Wilkin, S., Mann, J., & S. Bansal. Breathing in sync: how a social behavior structures respiratory epidemic risk in bottlenose dolphins. [bioRxiv, 2023.12.01.569646](https://www.biorxiv.org/content/10.1101/2023.12.01.569646v1.abstract)
+
 Rankin, R.W., **Foroughirad, V.**, Krzyszczyk, E.B., Frère, C.H., & J. Mann. Changes in social position predict survival in bottlenose dolphins. [bioRxiv, 2022.08. 25.505273](https://www.biorxiv.org/content/10.1101/2022.08.25.505273.full.pdf)
