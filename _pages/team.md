@@ -15,7 +15,7 @@ permalink: /team/
 Vivienne is a behavioral ecologist interested in the fitness consequences of the social environment. Her research integrates genetics and long-term studies to characterize the evolutionary processes shaping patterns of variation in social structure across cetacean species. Vivienne earned her Ph.D. with Andy Read at the Duke University Marine Lab and then did a postdoc with Janet Mann at Georgetown University before moving to Galveston. <!--[CV](https://www.dropbox.com/s/zzf3civc9w92tvp/NancyCVApril2019.pdf?dl=0)--> 
 <br>
 <br>
-Email: <vforoughirad@gmail.com> <br>
+Email: <vforough@tamug.edu> <br>
 Twitter: [@vforoughirad](https://twitter.com/vforoughirad) <br>
 Pronouns: she/her/hers
 <br><br><br><br><br>
