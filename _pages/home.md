@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 <br>
-<h4>Coming to Texas A&M University at Galveston in January 2024!</h4> 
+<h4>At Texas A&M University at Galveston</h4> 
 <br>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
