@@ -22,7 +22,7 @@ If you are interested in joining the lab, I recommend reaching out to me at <vfo
 
 **Undergraduate students:** There will be opportunities for undergraduate students to work in person at the lab at TAMUG beginning in January 2024.
 
-**Field assistants:** Openings for summer 2024 field assistant positions are posted! Apply here [NSF ETAP](https://etap.nsf.gov/award/135/opportunity/7560).
+**Field assistants:** Openings for summer 2024 field assistant positions are posted! Apply here [NSF ETAP](https://etap.nsf.gov/award/135/opportunity/7560) by February 15th.
 <br>
 <br>
 
