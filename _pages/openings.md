@@ -11,7 +11,7 @@ permalink: /openings
 
 **Graduate students:** the Foroughirad Lab can recruit graduate students through the [Marine Biology](https://www.tamug.edu/marb/degrees/Marine_Biology_graduate_program.html) department at [Texas A&M University at Galveston](https://www.tamug.edu/).
 
-If you are interested in joining the lab, I recommend reaching out to me at <vforough@tamug.edu> around 2-5 months before the application deadline with the following materials: 
+If you are interested in joining the lab, I recommend reaching out to me at <vforough@tamug.edu> around 2 to 5 months before the application deadline with the following materials: 
 
 1. CV
 2. Unofficial academic transcript
@@ -20,7 +20,7 @@ If you are interested in joining the lab, I recommend reaching out to me at <vfo
 
 **Postdocs:** I do not have funding for postdocs at the moment, but am happy to discuss collaborations on fellowship applications.
 
-**Undergraduate students:** There will be opportunities for undergraduate students to work in person at the lab at TAMUG beginning in January 2024.
+**Undergraduate students:** There will be opportunities for undergraduate students to work in person at the lab at TAMUG beginning in February 2024.
 
 **Field assistants:** Openings for summer 2024 field assistant positions are posted! Apply here [NSF ETAP](https://etap.nsf.gov/award/135/opportunity/7560) by February 15th.
 <br>
