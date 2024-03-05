@@ -26,7 +26,7 @@ Pronouns: she/her/hers
 Ava is a sophomore Marine Biology student at Texas A&M University at Galveston. Her interests include marine mammal ecology and behavior. After completing her Bachelor's degree, she plans to complete her Master's degree. 
 <br>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/IMG_7377_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Zoe Olson - *Undergraduate Technician*
