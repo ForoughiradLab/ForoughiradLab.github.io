@@ -37,7 +37,7 @@ Zoe Olson is an undergraduate Marine Biology major and Dive Technologies and Met
 <br><br><br><br><br>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/summer2023teamsquare.jpeg){: style="width: 350px; float: left; border: 10px"}<br>
+<!--![]({{ site.url }}{{ site.baseurl }}/images/teampic/summer2023teamsquare.jpeg){: style="width: 350px; float: left; border: 10px"}<br>
 ### Summer 2023 Field Team
 <br>
 From left to right- Maya Silver, Vivienne Foroughirad, Janet Reddy, Meaghan Collins, and Vanessa Amezcua 
