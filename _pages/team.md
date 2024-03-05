@@ -20,6 +20,23 @@ Twitter: [@vforoughirad](https://twitter.com/vforoughirad) <br>
 Pronouns: she/her/hers
 <br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/avapicforoughirad_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
+### Ava Reynolds - *Undergraduate Technician*
+<br>
+Ava is a sophomore Marine Biology student at Texas A&M University at Galveston. Her interests include marine mammal ecology and behavior. After completing her Bachelor's degree, she plans to complete her Master's degree. 
+<br>
+
+<br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/IMG_7377_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
+### Zoe Olson - *Undergraduate Technician*
+<br>
+Zoe Olson is an undergraduate Marine Biology major and Dive Technologies and Methods minor from Texas A&M University at Galveston. She is interested in researching cetacean behavioral and acoustic ecology on odontocetes such as killer whales and bottlenose dolphins. She also takes part in photography, which she hope will be useful in the Foroughirad lab and in my future research. Besides being a lab technician, she am also a member of Sea Aggie Dolphin Investigative Program, in which she photographs and collect behavioral data of the bottlenose dolphin population near Texas A&M Galveston.
+<br>
+
+<br><br><br><br><br>
+
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/summer2023teamsquare.jpeg){: style="width: 350px; float: left; border: 10px"}<br>
 ### Summer 2023 Field Team
 <br>
