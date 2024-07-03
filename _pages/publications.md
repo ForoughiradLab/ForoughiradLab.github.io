@@ -69,3 +69,5 @@ permalink: /publications/
 Collier, M.A., Jacoby, A., **Foroughirad, V.**, Patterson, E.M., Krzyszczyk, E., Wallen, M.M., Miketa, M., Karniski, C., Wilkin, S., Mann, J., & S. Bansal. Breathing in sync: how a social behavior structures respiratory epidemic risk in bottlenose dolphins. [bioRxiv, 2023.12.01.569646](https://www.biorxiv.org/content/10.1101/2023.12.01.569646v1.abstract)
 
 Rankin, R.W., **Foroughirad, V.**, Krzyszczyk, E.B., Frère, C.H., & J. Mann. Changes in social position predict survival in bottlenose dolphins. [bioRxiv, 2022.08. 25.505273](https://www.biorxiv.org/content/10.1101/2022.08.25.505273.full.pdf)
+
+Albery, G.F., Becker, D.J., Firth, J.A., Silk, M., Sweeny, A.R., Wal, E.V., Webber, Q.,...**Foroughirad, V.,**...Bansal, S., 2024. Density-dependent network structuring within and across wild animal systems. [bioRxiv 2024.06.28.601262.](https://doi.org/10.1101/2024.06.28.601262)
