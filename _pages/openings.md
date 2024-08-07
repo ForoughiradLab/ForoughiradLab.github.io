@@ -20,9 +20,9 @@ If you are interested in joining the lab, I recommend reaching out to me at <vfo
 
 **Postdocs:** I do not have funding for postdocs at the moment, but am happy to discuss collaborations on fellowship applications.
 
-**Undergraduate students:** There will be opportunities for undergraduate students to work in person at the lab at TAMUG beginning in February 2024.
+**Undergraduate students:** I accept new undergraduate students at the beginning of each semester, pending space. I recommend reaching out to me about 2 weeks before the start of classes for information on how to apply. 
 
-**Field assistants:** Openings for summer 2024 field assistant positions are posted! Apply here [NSF ETAP](https://etap.nsf.gov/award/135/opportunity/7560) by February 15th.
+<!--**Field assistants:** Openings for summer 2024 field assistant positions are posted! Apply here [NSF ETAP](https://etap.nsf.gov/award/135/opportunity/7560) by February 15th.-->
 <br>
 <br>
 
