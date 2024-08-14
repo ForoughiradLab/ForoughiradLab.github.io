@@ -16,6 +16,9 @@ permalink: /publications/
 
 ### **Peer-reviewed**
 
+17. Vivier, F., Andrés, C., Gonzalvo, J., Fertitta, K., van Aswegen, M., **Foroughirad, V.**, Mann, J., McEntee, M., Wells, R.S., & L. Bejder. (2024) Inferring dolphin population status: using unoccupied aerial systems to quantify age-structure. *Animal Conservation*. [doi:10.1111/acv.12978](https://doi.org/10.1111/acv.12978)<br>
+<br>
+
 16. McEntee, M.H.F., **Foroughirad, V.**, Krzyszczyk, E. & J. Mann. (2023) Sex bias in mortality risk varies with age and sex specific selection pressures across the lifespan of bottlenose dolphins. *Proceedings of the Royal Society B*. [doi:10.1098/rspb.2023.0675](https://doi.org/10.1098/rspb.2023.0675)<br>
 <br>
 
