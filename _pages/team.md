@@ -20,6 +20,14 @@ Twitter: [@vforoughirad](https://twitter.com/vforoughirad) <br>
 Pronouns: she/her/hers
 <br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/nikki_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
+### Nikki Shintaku - *PhD Student*
+<br>
+Nikki is a PhD student in the Marine Biology program at Texas A&M University at Galveston. Her research interests include population genomics/genetics and behavioral ecology in bottlenose dolphins and how they inform marine conservation actions. She received a Master's of Coastal Environmental Management from Duke University and a Bachelor of Science in Environmental Science from University of California, Davis. Go Aggies!
+<br>
+
+<br><br><br><br><br><br><br><br><br><br>
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/avapicforoughirad_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Ava Reynolds - *Undergraduate Technician*
 <br>
