@@ -28,6 +28,14 @@ Nikki is a PhD student in the Marine Biology program at Texas A&M University at 
 
 <br><br><br><br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/ashleyrogers.jpg){: style="width: 350px; float: left; border: 10px"}
+### Ashley Rogers - *Masters Student*
+<br>
+Ashley is a Masters student in the Marine Biology program at Texas A&M University at Galveston. Her research interests include social learning and foraging ecology in bottlenose dolphins and how they inform conservation and management strategies of the species. She received a Bachelor of Arts degree in Ecology, Evolution and Organismal Biology from Vanderbilt University.
+<br>
+
+<br><br><br><br><br><br><br><br><br><br>
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/avapicforoughirad_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Ava Reynolds - *Undergraduate Technician*
 <br>
