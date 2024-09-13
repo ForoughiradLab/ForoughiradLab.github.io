@@ -58,7 +58,7 @@ Zoe is an undergraduate Marine Biology major and Dive Technologies and Methods m
 My name is Julianna and I'm an undergraduate junior at Texas A&M University at Galveston. My interests focus on marine ecology and animal behaviors. I also volunteer in the invertebrate lab on campus. In my free time I like to crochet!
 <br>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/dylanphotocropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Dylan Hankins - *Undergraduate Technician*
