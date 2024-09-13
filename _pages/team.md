@@ -60,6 +60,14 @@ My name is Julianna and I'm an undergraduate junior at Texas A&M University at G
 
 <br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/dylanphotocropped.jpg){: style="width: 350px; float: left; border: 10px"}
+### Dylan Hankins - *Undergraduate Technician*
+<br>
+Dylan is an undergraduate Marine Biology major at Texas A&M University at Galveston. He is interested in researching cetacean behavioral and cultural ecology, specifically on odontocetes such as the killer whale. After completing his Bachelor's degree, he plans on continuing his education to complete his PhD.
+<br>
+
+<br><br><br><br><br>
+
 <!--![]({{ site.url }}{{ site.baseurl }}/images/teampic/summer2023teamsquare.jpeg){: style="width: 350px; float: left; border: 10px"}<br>
 ### Summer 2023 Field Team
 <br>
