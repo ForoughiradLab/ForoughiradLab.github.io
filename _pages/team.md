@@ -66,7 +66,16 @@ My name is Julianna and I'm an undergraduate junior at Texas A&M University at G
 Dylan is an undergraduate Marine Biology major at Texas A&M University at Galveston. He is interested in researching cetacean behavioral and cultural ecology, specifically on odontocetes such as killer whales. After completing his Bachelor's degree, he plans on continuing his education to complete his PhD.
 <br>
 
+<br><br><br><br><br><br><br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/madisoncropped.jpg){: style="width: 350px; float: left; border: 10px"}
+### Madison Ealey - *Undergraduate Technician*
+<br>
+Madison is a senior pursuing a bachelor’s degree in marine biology at Texas A&M University at Galveston. She has plans to advance to a master’s program, she is eager to engage in first-hand research focusing on the physiology and morphology of cetaceans, particularly of sperm whales. Madison’s  academic journey is driven by a deep-seated passion for marine life and a commitment to contributing valuable insights to the field. 
+<br>
+
 <br><br><br><br><br>
+
 
 <!--![]({{ site.url }}{{ site.baseurl }}/images/teampic/summer2023teamsquare.jpeg){: style="width: 350px; float: left; border: 10px"}<br>
 ### Summer 2023 Field Team
