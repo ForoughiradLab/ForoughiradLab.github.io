@@ -9,7 +9,7 @@ permalink: /openings
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/team_photo.png){: style="width: 350px; border: 10px;"}
 </p>
 
-**Graduate students:** the Foroughirad Lab can recruit graduate students through the [Marine Biology](https://www.tamug.edu/marb/degrees/Marine_Biology_graduate_program.html) department at [Texas A&M University at Galveston](https://www.tamug.edu/).
+**Graduate students:** the Foroughirad Lab can recruit PhD students through the [Marine Biology](https://www.tamug.edu/marb/degrees/Marine_Biology_graduate_program.html) department at [Texas A&M University at Galveston](https://www.tamug.edu/). Please note I am not recruiting thesis-based Masters students at this time. Students interested the non-thesis Masters do not have to identify a potential advisor beforehand. 
 
 If you are interested in joining the lab, I recommend reaching out to me at <vforough@tamug.edu> around 2 to 4 months before the application deadline with the following materials: 
 
