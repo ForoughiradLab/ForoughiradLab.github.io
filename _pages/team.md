@@ -68,7 +68,7 @@ Dylan is an undergraduate Marine Biology major at Texas A&M University at Galves
 
 <br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/madisoncropped.jpg){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/madison_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Madison Ealey - *Undergraduate Technician*
 <br>
 Madison is a senior pursuing a bachelor’s degree in marine biology at Texas A&M University at Galveston. She has plans to advance to a master’s program, she is eager to engage in first-hand research focusing on the physiology and morphology of cetaceans, particularly of sperm whales. Madison’s  academic journey is driven by a deep-seated passion for marine life and a commitment to contributing valuable insights to the field. 
