@@ -16,6 +16,9 @@ permalink: /publications/
 
 ### **Peer-reviewed**
 
+18. Meier, A. C., Restrepo, O.N., Nordseth, A., Copeland, M., **Foroughirad, V.**, Mann, J., Wittemyer, G., J.E. Smith. *In press*. Network indicators of cultural resilience to anthropogenic removals in animal societies. *Philosophical Transactions of the Royal Society B.*  
+<br>
+
 17. Vivier, F., Andrés, C., Gonzalvo, J., Fertitta, K., van Aswegen, M., **Foroughirad, V.**, Mann, J., McEntee, M., Wells, R.S., & L. Bejder. (2024) Inferring dolphin population status: using unoccupied aerial systems to quantify age-structure. *Animal Conservation*. [doi:10.1111/acv.12978](https://doi.org/10.1111/acv.12978)<br>
 <br>
 
