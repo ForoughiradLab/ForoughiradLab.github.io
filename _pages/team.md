@@ -68,6 +68,14 @@ Dylan is an undergraduate Marine Biology major at Texas A&M University at Galves
 
 <br><br><br><br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/camari_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
+### Camari Knox - *Undergraduate Technician*
+<br>
+Camari is an undergraduate student with the Marine Science department at Texas A&M University at Galveston, with plans of pursuing a PhD. She aims to pursue a career focused in behavioral ecology of beluga whales, particularly their use of echolocation in the Arctic. She also plans to join ocean conservation efforts.
+<br>
+
+<br><br><br><br><br><br><br><br><br><br>
+
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/madison_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Madison Ealey - *Undergraduate Technician*
 <br>
