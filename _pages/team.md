@@ -16,7 +16,7 @@ Vivienne is a behavioral ecologist interested in the fitness consequences of the
 <br>
 <br>
 Email: <vforough@tamug.edu> <br>
-Twitter: [@vforoughirad](https://twitter.com/vforoughirad) <br>
+Bluesky: [@vforoughirad.bsky.social](https://bsky.app/profile/vforoughirad.bsky.social) <br>
 Pronouns: she/her/hers
 <br><br><br><br><br>
 
