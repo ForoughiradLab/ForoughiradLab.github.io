@@ -18,7 +18,6 @@ permalink: /publications/
 19. Collier, M.A., Jacoby, A., **Foroughirad, V.**, Patterson, E.M., Krzyszczyk, E., Wallen, M.M., Miketa, M.L., Karniski, C., Wilkin, S., Mann, J., & S. Bansal. 2025. Breathing synchrony shapes respiratory disease risk in bottlenose dolphins. <em>Communications Biology</em>, 8, 870. [doi:10.1038/s42003-025-08161-1](https://doi.org/10.1038/s42003-025-08161-1)<br>
 
 18. Meier, A. C., Restrepo, O.N., Nordseth, A., Copeland, M., **Foroughirad, V.**, Mann, J., Wittemyer, G., J.E. Smith. (2025). Network indicators of cultural resilience to anthropogenic removals in animal societies. *Philosophical Transactions of the Royal Society B.* [doi:10.1098/rstb.2024.0144](https://doi.org/10.1098/rstb.2024.0144)<br>  
-<br>
 
 17. Vivier, F., Andrés, C., Gonzalvo, J., Fertitta, K., van Aswegen, M., **Foroughirad, V.**, Mann, J., McEntee, M., Wells, R.S., & L. Bejder. (2024) Inferring dolphin population status: using unoccupied aerial systems to quantify age-structure. *Animal Conservation*. [doi:10.1111/acv.12978](https://doi.org/10.1111/acv.12978)<br>
 <br>
