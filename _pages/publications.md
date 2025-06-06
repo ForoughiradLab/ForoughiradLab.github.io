@@ -15,6 +15,7 @@ permalink: /publications/
 <br>-->
 
 ### **Peer-reviewed**
+19. Collier, M.A., Jacoby, A., **Foroughirad, V.**, Patterson, E.M., Krzyszczyk, E., Wallen, M.M., Miketa, M.L., Karniski, C., Wilkin, S., Mann, J., & S. Bansal. 2025. Breathing synchrony shapes respiratory disease risk in bottlenose dolphins. <em>Communications Biology</em>, 8, 870. [doi:10.1038/s42003-025-08161-1](https://doi.org/10.1038/s42003-025-08161-1)<br>
 
 18. Meier, A. C., Restrepo, O.N., Nordseth, A., Copeland, M., **Foroughirad, V.**, Mann, J., Wittemyer, G., J.E. Smith. (2025). Network indicators of cultural resilience to anthropogenic removals in animal societies. *Philosophical Transactions of the Royal Society B.* [doi:10.1098/rstb.2024.0144](https://doi.org/10.1098/rstb.2024.0144)<br>  
 <br>
@@ -71,8 +72,6 @@ permalink: /publications/
 <br>
 
 ### **Preprints**
-
-Collier, M.A., Jacoby, A., **Foroughirad, V.**, Patterson, E.M., Krzyszczyk, E., Wallen, M.M., Miketa, M., Karniski, C., Wilkin, S., Mann, J., & S. Bansal. Breathing in sync: how a social behavior structures respiratory epidemic risk in bottlenose dolphins. [bioRxiv, 2023.12.01.569646](https://www.biorxiv.org/content/10.1101/2023.12.01.569646v1.abstract)
 
 Rankin, R.W., **Foroughirad, V.**, Krzyszczyk, E.B., Frère, C.H., & J. Mann. Changes in social position predict survival in bottlenose dolphins. [bioRxiv, 2022.08. 25.505273](https://www.biorxiv.org/content/10.1101/2022.08.25.505273.full.pdf)
 
