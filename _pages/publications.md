@@ -15,9 +15,10 @@ permalink: /publications/
 <br>-->
 
 ### **Peer-reviewed**
-20. Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., Allen, B., Babayan, S.A., Barve, S., Begon, M., Birtles, R.J., Block, T.A., Block, B.A., Bradley, J.E., Budischak, S., Buesching, C., Burthe, S.J., Carlisle, A.B., Caselle, J.E., Cattuto, C., Chaine, A.S., Chapple, T.K., Cheney, B.J., Clutton-Brock, T., Collier, M., Curnick, D.J., Delahay, R.J., Farine, D.R., Fenton, A., Ferretti, F., Feyrer, L., Fielding, H., **Foroughirad, V.**... S. Bansal. (2025) Density-dependent network structuring within and across wild animal systems. <em>Nat Ecol Evol</em> 1–12. [doi:10.1038/s41559-025-02843-z](https://doi.org/10.1038/s41559-025-02843-z)<br>
+20. Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., Allen, B., Babayan, S.A., Barve, S., Begon, M., Birtles, R.J., Block, T.A., Block, B.A., Bradley, J.E., Budischak, S., Buesching, C., Burthe, S.J., Carlisle, A.B., Caselle, J.E., Cattuto, C., Chaine, A.S., Chapple, T.K., Cheney, B.J., Clutton-Brock, T., Collier, M., Curnick, D.J., Delahay, R.J., Farine, D.R., Fenton, A., Ferretti, F., Feyrer, L., Fielding, H., **Foroughirad, V.**.. S. Bansal. (2025) Density-dependent network structuring within and across wild animal systems. *Nat Ecol Evol* 1–12. [doi:10.1038/s41559-025-02843-z](https://doi.org/10.1038/s41559-025-02843-z)<br>
+<br>
 
-19. Collier, M.A., Jacoby, A., **Foroughirad, V.**, Patterson, E.M., Krzyszczyk, E., Wallen, M.M., Miketa, M.L., Karniski, C., Wilkin, S., Mann, J., & S. Bansal. (2025) Breathing synchrony shapes respiratory disease risk in bottlenose dolphins. <em>Communications Biology</em>, 8, 870. [doi:10.1038/s42003-025-08161-1](https://doi.org/10.1038/s42003-025-08161-1)<br>
+19. Collier, M.A., Jacoby, A., **Foroughirad, V.**, Patterson, E.M., Krzyszczyk, E., Wallen, M.M., Miketa, M.L., Karniski, C., Wilkin, S., Mann, J., & S. Bansal. (2025) Breathing synchrony shapes respiratory disease risk in bottlenose dolphins. *Communications Biology*, 8, 870. [doi:10.1038/s42003-025-08161-1](https://doi.org/10.1038/s42003-025-08161-1)<br>
 <br>
 
 18. Meier, A. C., Restrepo, O.N., Nordseth, A., Copeland, M., **Foroughirad, V.**, Mann, J., Wittemyer, G., J.E. Smith. (2025) Network indicators of cultural resilience to anthropogenic removals in animal societies. *Philosophical Transactions of the Royal Society B.* [doi:10.1098/rstb.2024.0144](https://doi.org/10.1098/rstb.2024.0144)<br>
