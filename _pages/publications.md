@@ -15,6 +15,8 @@ permalink: /publications/
 <br>-->
 
 ### **Peer-reviewed**
+20. Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., Allen, B., Babayan, S.A., Barve, S., Begon, M., Birtles, R.J., Block, T.A., Block, B.A., Bradley, J.E., Budischak, S., Buesching, C., Burthe, S.J., Carlisle, A.B., Caselle, J.E., Cattuto, C., Chaine, A.S., Chapple, T.K., Cheney, B.J., Clutton-Brock, T., Collier, M., Curnick, D.J., Delahay, R.J., Farine, D.R., Fenton, A., Ferretti, F., Feyrer, L., Fielding, H., **Foroughirad, V.**... S. Bansal. (2025) Density-dependent network structuring within and across wild animal systems. <em>Nat Ecol Evol</em> 1–12. [doi:10.1038/s41559-025-02843-z](https://doi.org/10.1038/s41559-025-02843-z)<br>
+
 19. Collier, M.A., Jacoby, A., **Foroughirad, V.**, Patterson, E.M., Krzyszczyk, E., Wallen, M.M., Miketa, M.L., Karniski, C., Wilkin, S., Mann, J., & S. Bansal. (2025) Breathing synchrony shapes respiratory disease risk in bottlenose dolphins. <em>Communications Biology</em>, 8, 870. [doi:10.1038/s42003-025-08161-1](https://doi.org/10.1038/s42003-025-08161-1)<br>
 <br>
 
@@ -75,5 +77,3 @@ permalink: /publications/
 ### **Preprints**
 
 Rankin, R.W., **Foroughirad, V.**, Krzyszczyk, E.B., Frère, C.H., & J. Mann. Changes in social position predict survival in bottlenose dolphins. [bioRxiv, 2022.08. 25.505273](https://www.biorxiv.org/content/10.1101/2022.08.25.505273.full.pdf)
-
-Albery, G.F., Becker, D.J., Firth, J.A., Silk, M., Sweeny, A.R., Wal, E.V., Webber, Q.,...**Foroughirad, V.,**...Bansal, S., 2024. Density-dependent network structuring within and across wild animal systems. [bioRxiv 2024.06.28.601262.](https://doi.org/10.1101/2024.06.28.601262)
