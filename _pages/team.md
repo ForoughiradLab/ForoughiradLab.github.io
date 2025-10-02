@@ -68,7 +68,7 @@ Camari is an undergraduate student with the Marine Science department at Texas A
 
 <br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Julianna_cropped.png){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/paige_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Paige Wright - *Undergraduate Technician*
 <br>
 Paige is an undergraduate Marine Biology student at Texas A&M University at Galveston. She is interested in killer whale and overall marine mammal behavior. She plans to continue her education after undergrad with a masters, and pursue a career focusing on cetacean behavior. 
