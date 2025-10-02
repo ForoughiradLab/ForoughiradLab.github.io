@@ -47,7 +47,7 @@ Ava is a senior Marine Biology student at Texas A&M University at Galveston. Her
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/IMG_7377_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Zoe Olson - *Undergraduate Technician*
 <br>
-Zoe is an undergraduate Marine Biology major and Dive Technologies and Methods minor from Texas A&M University at Galveston. She is interested in researching cetacean behavioral and acoustic ecology on odontocetes such as killer whales and bottlenose dolphins. She also takes part in photography, which she hope will be useful in the Foroughirad lab and in my future research. Besides being a lab technician, she am also a member of Sea Aggie Dolphin Investigative Program, in which she photographs and collect behavioral data of the bottlenose dolphin population near Texas A&M Galveston.
+Zoe is an undergraduate Marine Biology major at Texas A&M University at Galveston. She is interested in behavioral and acoustic ecology on odontocetes such as killer whales and bottlenose dolphins. After completing her Bachelor’s degree, she plans on continuing her education with a masters and a PhD to pursue a career in killer whale research. 
 <br>
 
 <br><br><br><br><br><br><br><br>
