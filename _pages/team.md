@@ -50,7 +50,7 @@ Ava is a senior Marine Biology student at Texas A&M University at Galveston. Her
 Zoe is an undergraduate Marine Biology major at Texas A&M University at Galveston. She is interested in behavioral and acoustic ecology on odontocetes such as killer whales and bottlenose dolphins. After completing her Bachelor’s degree, she plans on continuing her education with a masters and a PhD to pursue a career in killer whale research. 
 <br>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/dylanphotocropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Dylan Hankins - *Undergraduate ACES scholar*
