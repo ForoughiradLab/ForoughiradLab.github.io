@@ -63,7 +63,7 @@ Dylan is an undergraduate Marine Biology major at Texas A&M University at Galves
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/camari_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Camari Knox - *Undergraduate ACES scholar*
 <br>
-Camari is an undergraduate student with the Marine Science department at Texas A&M University at Galveston, with plans of pursuing a PhD. She aims to pursue a career focused in behavioral ecology of beluga whales, particularly their use of echolocation in the Arctic. She also plans to join ocean conservation efforts.
+Camari is an undergraduate student with the Marine Science department at Texas A&M University at Galveston, with plans of pursuing a Ph.D. Her research interests include ecophysics with particular focus on how physical variables influence marine mammal ecology as well as paleoceanography. She also plans to join ocean conservation efforts.
 <br>
 
 <br><br><br><br><br><br><br><br><br><br>
