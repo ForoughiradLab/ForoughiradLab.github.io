@@ -75,6 +75,13 @@ permalink: /publications/
 1. **Foroughirad, V.** & Mann, J. (2013) Long-term impacts of fish provisioning on the behavior and survival of bottlenose dolphins. *Biological Conservation*. 160:242-249. [doi:10.1016/j.biocon.2013.01.001](https://doi.org/10.1016/j.biocon.2013.01.001)
 <br>
 
+
 ### **Preprints**
 
 Rankin, R.W., **Foroughirad, V.**, Krzyszczyk, E.B., Frère, C.H., & J. Mann. Changes in social position predict survival in bottlenose dolphins. [bioRxiv, 2022.08. 25.505273](https://www.biorxiv.org/content/10.1101/2022.08.25.505273.full.pdf)
+
+Meehan, K.C., Class, B., Nakagawa, S., **Foroughirad, V.**, Mann, J., Frere, C., 2025. The age of change: social aging in dolphins. [EcoEvoRxiv, doi:10.32942/X2KW8W](https://doi.org/10.32942/X2KW8W)
+
+Manlik, O., Mann, J., Krützen, M., **Foroughirad, V.**, McEntee, M., Kopps, A., Frere, C., Allen, S., Connor, R., Bejder, L., Sherwin, W., 2025. MHC diversity confers transgenerational fitness advantage in wild dolphins. [ResearchSquare, doi:10.21203/rs.3.rs-7279666](https://doi.org/10.21203/rs.3.rs-7279666/v1)
+
+
