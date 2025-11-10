@@ -36,7 +36,7 @@ permalink: /publications/
 
 <li><b>Foroughirad, V.</b>, McEntee, M. H., Kopps, A.M., Levengood, A.L., Frère, C.H & J. Mann. (2022) Reproductive timing as an explanation for skewed parentage assignment ratio in a bisexually philopatric population. <i>Behavioral Ecology and Sociobiology</i>. 76, 129. <a href="https://doi.org/10.1007/s00265-022-03233-2">doi:10.1007/s00265-022-03233-2</a></li><br>
 
-<li>Levengood, A. L., Strickland, K., <b>Foroughirad, V.</b>, Mann, J., Cristescu, R.H., Krzyszczyk, E.B., Frère, C. (2022) Heterogeneity of resource competition shapes individual variation in dolphin social behavior. <i>Behavioral Ecology</i>. Volume 33, Issue 4, July/August 2022, Pages 745–757, <a href="https://doi.org/10.1093/beheco/arac037">doi:10.1093/beheco/arac037</a></li><br>
+<li>Levengood, A. L., Strickland, K., <b>Foroughirad, V.</b>, Mann, J., Cristescu, R.H., Krzyszczyk, E.B., Frère, C. (2022) Heterogeneity of resource competition shapes individual variation in dolphin social behavior. <i>Behavioral Ecology</i>. Volume 33, Issue 4, July/August 2022, Pages 745–757. <a href="https://doi.org/10.1093/beheco/arac037">doi:10.1093/beheco/arac037</a></li><br>
 
 <li>Strickland K., Mann J., <b>Foroughirad, V.</b>, Levengood A.L., Frère C.H. (2021) Maternal effects and fitness consequences of individual variation in bottlenose dolphins’ ecological niche. <i>Journal of Animal Ecology</i>. 2021; 00:1–13. <a href="https://doi.org/10.1111/1365-2656.13513">doi:10.1111/1365-2656.13513</a></li><br>
 
