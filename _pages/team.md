@@ -42,7 +42,6 @@ Ashley is a Masters student in the Marine Biology program at Texas A&M Universit
 Ava is a senior Marine Biology student at Texas A&M University at Galveston. Her interests include marine mammal ecology and behavior. After completing her Bachelor's degree, she plans to complete her Master's degree. 
 <br>
 
-
 <br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/dylanphotocropped.jpg){: style="width: 350px; float: left; border: 10px"}
