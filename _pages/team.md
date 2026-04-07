@@ -42,13 +42,6 @@ Ashley is a Masters student in the Marine Biology program at Texas A&M Universit
 Ava is a senior Marine Biology student at Texas A&M University at Galveston. Her interests include marine mammal ecology and behavior. After completing her Bachelor's degree, she plans to complete her Master's degree. 
 <br>
 
-<br><br><br><br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/IMG_7377_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
-### Zoe Olson - *Undergraduate Technician*
-<br>
-Zoe is an undergraduate Marine Biology major at Texas A&M University at Galveston. She is interested in behavioral and acoustic ecology on odontocetes such as killer whales and bottlenose dolphins. After completing her Bachelor’s degree, she plans on continuing her education with a masters and a PhD to pursue a career in killer whale research. 
-<br>
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -82,3 +75,5 @@ Paige is an undergraduate Marine Biology student at Texas A&M University at Galv
 Madison Ealey - Undergraduate Technician 2024
 <br>
 Julianna Rosales - Undergraduate Technician 2024-2025
+<br>
+Zoe Olson - Undergraduate Technician and Undergraduate Research Scholar 2024-2025
