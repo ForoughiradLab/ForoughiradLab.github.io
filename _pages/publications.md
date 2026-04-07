@@ -14,6 +14,10 @@ permalink: /publications/
 <!-- <img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/PLOSgeneticsAug2017cover.png" class="img-responsive" width = "25%" style="float: right; padding-left: 15px" />
 <br>-->
 
+### **Book chapters**
+
+<b>Foroughirad, V.</b>, McEntee, M.H. and J. Mann. (2026) Causes and Consequences of Female-Biased Relationships. In <i>The Evolution of Cetacean Societies: Uncovering the Social Complexity of Whales and Dolphins</i> (pp. 120-147). <a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo257312594.html">University of Chicago Press.</a><br>
+
 ### **Peer-reviewed**
 <ol reversed>
 <li>Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., Allen, B., Babayan, S.A., Barve, S., Begon, M., Birtles, R.J., Block, T.A., Block, B.A., Bradley, J.E., Budischak, S., Buesching, C., Burthe, S.J., Carlisle, A.B., Caselle, J.E., Cattuto, C., Chaine, A.S., Chapple, T.K., Cheney, B.J., Clutton-Brock, T., Collier, M., Curnick, D.J., Delahay, R.J., Farine, D.R., Fenton, A., Ferretti, F., Feyrer, L., Fielding, H., <b>Foroughirad, V.</b>...S. Bansal. (2025) Density-dependent network structuring within and across wild animal systems. <i>Nat Ecol Evol</i> 1–12. <a href="https://doi.org/10.1038/s41559-025-02843-z">doi:10.1038/s41559-025-02843-z</a></li><br>
