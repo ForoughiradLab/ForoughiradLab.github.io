@@ -36,14 +36,6 @@ Ashley is a Masters student in the Marine Biology program at Texas A&M Universit
 
 <br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/avapicforoughirad_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
-### Ava Reynolds - *Undergraduate Technician*
-<br>
-Ava is a senior Marine Biology student at Texas A&M University at Galveston. Her interests include marine mammal ecology and behavior. After completing her Bachelor's degree, she plans to complete her Master's degree. 
-<br>
-
-<br><br><br><br><br><br><br><br><br>
-
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/dylanphotocropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Dylan Hankins - *Undergraduate ACES scholar*
 <br>
@@ -76,3 +68,6 @@ Madison Ealey - Undergraduate Technician 2024
 Julianna Rosales - Undergraduate Technician 2024-2025
 <br>
 Zoe Olson - Undergraduate Technician and Undergraduate Research Scholar 2024-2025
+<br>
+Ava Reynolds - Undergraduate Technician 2024-2026
+
