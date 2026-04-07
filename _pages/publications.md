@@ -16,7 +16,7 @@ permalink: /publications/
 
 ### **Book chapters**
 
-<b>Foroughirad, V.</b>, McEntee, M.H. and J. Mann. (2026) Causes and Consequences of Female-Biased Relationships. In <i>The Evolution of Cetacean Societies: Uncovering the Social Complexity of Whales and Dolphins</i> (pp. 120-147). <a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo257312594.html">University of Chicago Press.</a><br>
+<b>Foroughirad, V.</b>, McEntee, M.H., & J. Mann. (2026) Causes and Consequences of Female-Biased Relationships. In <i>The Evolution of Cetacean Societies: Uncovering the Social Complexity of Whales and Dolphins</i> (pp. 120-147). <a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo257312594.html">University of Chicago Press.</a><br>
 
 ### **Peer-reviewed**
 <ol reversed>
