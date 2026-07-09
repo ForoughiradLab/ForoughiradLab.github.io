@@ -60,6 +60,13 @@ Paige is an undergraduate Marine Biology student at Texas A&M University at Galv
 
 <br><br><br><br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/ray_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
+### Ray Davis - *Undergraduate Technician*
+<br>
+Ray is an undergraduate Marine Biology student at Texas A&M University at Galveston. He has interests in cetacean cognition and behavior, and how they may relate to age-related conditions. After completing his undergraduate degree, he plans to continue his education with a PhD, and pursue research on the links between cetacean behavior and neurological health. 
+<br>
+
+<br><br><br><br><br><br><br><br><br><br>
 
 # Alumni
 
