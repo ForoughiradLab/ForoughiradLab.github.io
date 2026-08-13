@@ -20,6 +20,8 @@ permalink: /publications/
 
 ### **Peer-reviewed**
 <ol reversed>
+<li>Jacobs, E., Evans, T., MacQueeney, M., <b>Foroughirad, V.</b>, Mann, J. (2026) Substance over style: calf characteristics drive maternal care in Indo-Pacific bottlenose dolphins. <i>Animal Behaviour</i> 239, 123676. <a href="https://doi.org/10.1016/j.anbehav.2026.123676">doi:10.1016/j.anbehav.2026.123676</a></li><br>
+
 <li>Albery, G.F., Becker, D.J., Firth, J.A., De Moor, D., Ravindran, S., Silk, M., Sweeny, A.R., Vander Wal, E., Webber, Q., Allen, B., Babayan, S.A., Barve, S., Begon, M., Birtles, R.J., Block, T.A., Block, B.A., Bradley, J.E., Budischak, S., Buesching, C., Burthe, S.J., Carlisle, A.B., Caselle, J.E., Cattuto, C., Chaine, A.S., Chapple, T.K., Cheney, B.J., Clutton-Brock, T., Collier, M., Curnick, D.J., Delahay, R.J., Farine, D.R., Fenton, A., Ferretti, F., Feyrer, L., Fielding, H., <b>Foroughirad, V.</b>...S. Bansal. (2025) Density-dependent network structuring within and across wild animal systems. <i>Nat Ecol Evol</i> 1–12. <a href="https://doi.org/10.1038/s41559-025-02843-z">doi:10.1038/s41559-025-02843-z</a></li><br>
 
 <li>Collier, M.A., Jacoby, A., <b>Foroughirad, V.</b>, Patterson, E.M., Krzyszczyk, E., Wallen, M.M., Miketa, M.L., Karniski, C., Wilkin, S., Mann, J., & S. Bansal. (2025) Breathing synchrony shapes respiratory disease risk in bottlenose dolphins. <i>Communications Biology</i>, 8, 870. <a href="https://doi.org/10.1038/s42003-025-08161-1">doi:10.1038/s42003-025-08161-1</a></li><br>
