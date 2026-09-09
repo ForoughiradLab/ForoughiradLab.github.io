@@ -28,32 +28,24 @@ Nikki is a PhD student in the Marine Biology program at Texas A&M University at 
 
 <br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/ashleyrogers.jpg){: style="width: 350px; float: left; border: 10px"}
-### Ashley Rogers - *Masters Student*
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/wanderercreative-blank-profile-picture-973460_1920.png){: style="width: 350px; float: left; border: 10px"}
+### Emma Sardy - *PhD Student*
 <br>
-Ashley is a Masters student in the Marine Biology program at Texas A&M University at Galveston. Her research interests include social learning and foraging ecology in bottlenose dolphins and how they inform conservation and management strategies of the species. She received a Bachelor of Arts degree in Ecology, Evolution and Organismal Biology from Vanderbilt University.
+Emma is a PhD student in the Marine Biology program at Texas A&M University at Galveston. 
 <br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/dylanphotocropped.jpg){: style="width: 350px; float: left; border: 10px"}
-### Dylan Hankins - *Undergraduate ACES scholar*
+### Lauryn Fly - *Masters Student*
 <br>
-Dylan is an undergraduate Marine Biology major at Texas A&M University at Galveston. He is interested in researching cetacean behavioral and cultural ecology, specifically on odontocetes such as killer whales. After completing his Bachelor's degree, he plans on continuing his education to complete his PhD.
-<br>
-
-<br><br><br><br><br><br><br><br><br><br>
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/camari_2025.jpg){: style="width: 350px; float: left; border: 10px"}
-### Camari Knox - *Undergraduate ACES scholar*
-<br>
-Camari is an undergraduate student with the Marine Science department at Texas A&M University at Galveston, with plans of pursuing a Ph.D. Her research interests include ecophysics with particular focus on how physical variables influence marine mammal ecology as well as paleoceanography. She also plans to join ocean conservation efforts.
+Lauryn is a Masters student in the Marine Biology program at Texas A&M University at Galveston. 
 <br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/paige_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
-### Paige Wright - *Undergraduate Technician*
+### Paige Wright - *Undergraduate Research Assistant*
 <br>
 Paige is an undergraduate Marine Biology student at Texas A&M University at Galveston. She is interested in killer whale and overall marine mammal behavior. She plans to continue her education after undergrad with a masters, and pursue a career focusing on cetacean behavior. 
 <br>
@@ -68,13 +60,27 @@ Ray is an undergraduate Marine Biology student at Texas A&M University at Galves
 
 <br><br><br><br><br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/sam_arce_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
+### Samantha Arce - *Undergraduate Research Assistant*
+<br>
+Samantha is an undergraduate Marine Biology major at Texas A&M UniversityGalveston. She is interested in cetacean behavior, specifically bottlenose dolphin infanticide rates. After undergrad, she plans to continue her education with a masters and pursue research on odontocete behavior.
+<br>
+
+<br><br><br><br><br><br><br><br><br><br>
+
 # Alumni
 
-Madison Ealey - Undergraduate Technician 2024
+[Ashley Rogers](https://www.linkedin.com/in/ashleyrogers01/) - Masters '2026
 <br>
-Julianna Rosales - Undergraduate Technician 2024-2025
+[Camari Knox](https://www.linkedin.com/in/camari-knox-81a421347/) - Undergraduate ACES scholar '2026
 <br>
-Zoe Olson - Undergraduate Technician and Undergraduate Research Scholar 2024-2025
+Dylan Hankins - Undergraduate ACES scholar '2026
 <br>
-Ava Reynolds - Undergraduate Technician 2024-2026
+[Madison Ealey](https://www.linkedin.com/in/madison-ealey/) - Undergraduate Technician 2024
+<br>
+[Julianna Rosales](https://www.linkedin.com/in/julianna-rosales-b52530333/) - Undergraduate Technician 2024-2025
+<br>
+[Zoe Olson](https://www.linkedin.com/in/zoe-olson-570819263/) - Undergraduate Technician and Undergraduate Research Scholar 2024-2025
+<br>
+[Ava Reynolds](https://www.linkedin.com/in/ava-reynolds-b0bb08202/) - Undergraduate Technician 2024-2026
 
