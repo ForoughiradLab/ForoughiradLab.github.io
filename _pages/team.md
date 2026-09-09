@@ -28,11 +28,10 @@ Nikki is a PhD student in the Marine Biology program at Texas A&M University at 
 
 <br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/wanderercreative-blank-profile-picture-973460_1920.png){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/emma_sardy_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Emma Sardy - *PhD Student*
 <br>
-Emma is a PhD student in the Marine Biology program at Texas A&M University at Galveston. 
-<br>
+Emma is a PhD student in the Marine Biology program at Texas A&M University at Galveston. She is interested in using non-invasive genetic sampling to study bottlenose dolphin population health and to inform our understanding of their social networks. She graduated from Duke University in 2025 and worked as a research technician at the Duke Marine Lab until August 2026, studying goose-beaked whales and cephalopods in the deep sea using environmental DNA.
 <br>
 
 <br><br><br><br><br><br><br><br><br><br>
