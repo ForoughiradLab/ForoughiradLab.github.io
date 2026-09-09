@@ -36,7 +36,7 @@ Emma is a PhD student in the Marine Biology program at Texas A&M University at G
 
 <br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/dylanphotocropped.jpg){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/wanderercreative-blank-profile-picture-973460_1920.png){: style="width: 350px; float: left; border: 10px"}
 ### Lauryn Fly - *Masters Student*
 <br>
 Lauryn is a Masters student in the Marine Biology program at Texas A&M University at Galveston. 
