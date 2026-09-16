@@ -23,7 +23,7 @@ Pronouns: she/her/hers
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/nikki_cropped.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Nikki Shintaku - *PhD Student*
 <br>
-Nikki is a PhD student in the Marine Biology program at Texas A&M University at Galveston. Her research interests include population genomics/genetics and behavioral ecology in bottlenose dolphins and how they inform marine conservation actions. She received a Master's of Coastal Environmental Management from Duke University and a Bachelor of Science in Environmental Science from University of California, Davis. Go Aggies!
+Nikki is a PhD student in the Marine Biology program at Texas A&M University at Galveston. Her dissertation research focuses on using population genetics and social structure in bottlenose dolphins to investigate how sampling methods affect estimates of effective population size in hopes of applying the insights from this research to help estimate the size of other cetacean populations that are less accessible or understudied. She received a Master’s of Coastal Environmental Management from Duke University and a Bachelor of Science in Environmental Science from University of California, Davis. Go Ags!
 <br>
 
 <br><br><br><br><br><br><br><br><br><br>
