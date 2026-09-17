@@ -36,10 +36,10 @@ Emma is a PhD student in the Marine Biology program at Texas A&M University at G
 
 <br><br><br><br><br><br><br><br><br><br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/wanderercreative-blank-profile-picture-973460_1920.png){: style="width: 350px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/fly_lauryn.jpg){: style="width: 350px; float: left; border: 10px"}
 ### Lauryn Fly - *Masters Student*
 <br>
-Lauryn is a Masters student in the Marine Biology program at Texas A&M University at Galveston. 
+Lauryn is a Masters student in the Marine Biology program at Texas A&M University at Galveston. She is interested in how cetaceans adapt to industrialized areas through foraging strategies and how this affects their social networks. She graduated from the University of Houston-Clear Lake where she worked on projects with Amazon River dolphins and common bottlenose dolphins. She also plans to use her skills in scientific illustration for her research.
 <br>
 <br>
 <br>
